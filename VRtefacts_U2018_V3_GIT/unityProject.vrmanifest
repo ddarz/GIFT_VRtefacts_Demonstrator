@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrtefacts_u2018_v1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\ddarz\\Dropbox\\MRL\\MRL_Projects\\2019_VRtefacts\\VRtefacts_dev\\VRtefacts_U2018_v3\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRtefacts_U2018_v1 [Testing]"
+        }
+      }
+    }
+  ]
+}
